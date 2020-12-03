@@ -5,3 +5,6 @@
 
 
 https://craft.co/quantopian/competitors?competitors=quantopian%2Cjane-street-capital%2Cbridgewater-associates%2Cquantconnect
+
+
+![](https://raw.githubusercontent.com/kevin11h/TOP-1-PERCENT-FINTECH-ALGO-TRADE-COMPANIES/main/Q-paper-ship.png)
