@@ -6,5 +6,5 @@
 
 https://craft.co/quantopian/competitors?competitors=quantopian%2Cjane-street-capital%2Cbridgewater-associates%2Cquantconnect
 
-
+# Paper Boat Ship backdrop Q sunset tail path tail travel Quant journey
 ![](https://raw.githubusercontent.com/kevin11h/TOP-1-PERCENT-FINTECH-ALGO-TRADE-COMPANIES/main/Q-paper-ship.png)
